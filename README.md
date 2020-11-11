@@ -1,6 +1,8 @@
 # DnsAll
 DnsAll verifica todos os registros e records bem como subdominios de um dominio
 
+Requer 2 wordlists a primeira com prefixos de subdominios e a segunda com tipos de registros e records de dominios
+
 ./DnsAll.sh
 
 		 ____                  _    _  _
